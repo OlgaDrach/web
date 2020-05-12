@@ -1,0 +1,68 @@
+.color_text{
+    color: rgb(85, 143, 18)
+}
+.color_text2{
+    color: rgb(38, 126, 77)
+}
+#id1{
+    color: rgb(66, 199, 73)
+}
+#id2{
+    background: url(../img/2.png);
+    width: 98px;
+    height: 123px !important;
+}
+#id3{
+    color: rgb(16, 128, 172)
+}
+#id4{
+    color: lawngreen
+}
+#id5{
+    color: peachpuff
+}
+#id6{
+    color: rgb(49, 173, 76)
+}
+#id7{
+    color: rgb(163, 185, 39)
+}
+#id8{
+    color: teal
+}
+#id9{
+    color: rgb(70, 168, 168)
+}
+#id10{
+    color: navy
+}
+#id11{
+    color: rgb(28, 163, 100)
+}
+#id12{
+    color: rgb(43, 180, 73)
+}
+#id13{
+    color: purple
+}
+#id14{
+    color: rgb(88, 194, 136)
+}
+#id15{
+    color: palegreen
+}
+#id16{
+    color: greenyellow
+}
+#id17{
+    color: mediumturquoise
+}
+#id18{
+    color: khaki
+}
+#id19{
+    color: forestgreen
+}
+#id20{
+    color: seagreen
+}
